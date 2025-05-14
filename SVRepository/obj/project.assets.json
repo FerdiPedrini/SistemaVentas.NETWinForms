@@ -1813,11 +1813,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\windows\\Desktop\\Sistema Ventas .NET WinForms\\SistemaVenta\\SVRepository\\SVRepository.csproj",
+      "projectUniqueName": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVRepository\\SVRepository.csproj",
       "projectName": "SVRepository",
-      "projectPath": "C:\\Users\\windows\\Desktop\\Sistema Ventas .NET WinForms\\SistemaVenta\\SVRepository\\SVRepository.csproj",
+      "projectPath": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVRepository\\SVRepository.csproj",
       "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\windows\\Desktop\\Sistema Ventas .NET WinForms\\SistemaVenta\\SVRepository\\obj\\",
+      "outputPath": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVRepository\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",

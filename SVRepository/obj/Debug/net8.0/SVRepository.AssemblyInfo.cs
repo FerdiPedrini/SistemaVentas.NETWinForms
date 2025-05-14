@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SVRepository")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebc7b34b884b4fb1fe9bb403d0806ef3bb5e8782")]
 [assembly: System.Reflection.AssemblyProductAttribute("SVRepository")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SVRepository")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2954,11 +2954,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\windows\\Desktop\\Sistema Ventas .NET WinForms\\SistemaVenta\\SVPresentation\\SVPresentation.csproj",
+      "projectUniqueName": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\SVPresentation.csproj",
       "projectName": "SVPresentation",
-      "projectPath": "C:\\Users\\windows\\Desktop\\Sistema Ventas .NET WinForms\\SistemaVenta\\SVPresentation\\SVPresentation.csproj",
+      "projectPath": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\SVPresentation.csproj",
       "packagesPath": "C:\\Users\\windows\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\windows\\Desktop\\Sistema Ventas .NET WinForms\\SistemaVenta\\SVPresentation\\obj\\",
+      "outputPath": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\windows\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2976,8 +2976,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "C:\\Users\\windows\\Desktop\\Sistema Ventas .NET WinForms\\SistemaVenta\\SVServices\\SVServices.csproj": {
-              "projectPath": "C:\\Users\\windows\\Desktop\\Sistema Ventas .NET WinForms\\SistemaVenta\\SVServices\\SVServices.csproj"
+            "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVServices\\SVServices.csproj": {
+              "projectPath": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVServices\\SVServices.csproj"
             }
           }
         }

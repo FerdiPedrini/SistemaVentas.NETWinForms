@@ -28,3 +28,19 @@ C:\Users\pedri\Desktop\Sistema Ventas .NET WinForms\SistemaVenta\SVServices\obj\
 C:\Users\pedri\Desktop\Sistema Ventas .NET WinForms\SistemaVenta\SVServices\obj\Debug\net8.0\refint\SVServices.dll
 C:\Users\pedri\Desktop\Sistema Ventas .NET WinForms\SistemaVenta\SVServices\obj\Debug\net8.0\SVServices.pdb
 C:\Users\pedri\Desktop\Sistema Ventas .NET WinForms\SistemaVenta\SVServices\obj\Debug\net8.0\ref\SVServices.dll
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\bin\Debug\net8.0\SVServices.deps.json
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\bin\Debug\net8.0\SVServices.dll
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\bin\Debug\net8.0\SVServices.pdb
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\bin\Debug\net8.0\SVRepository.dll
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\bin\Debug\net8.0\SVRepository.pdb
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\obj\Debug\net8.0\SVServices.csproj.AssemblyReference.cache
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\obj\Debug\net8.0\SVServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\obj\Debug\net8.0\SVServices.AssemblyInfoInputs.cache
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\obj\Debug\net8.0\SVServices.AssemblyInfo.cs
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\obj\Debug\net8.0\SVServices.csproj.CoreCompileInputs.cache
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\obj\Debug\net8.0\SVServices.sourcelink.json
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\obj\Debug\net8.0\SVServices.csproj.Up2Date
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\obj\Debug\net8.0\SVServices.dll
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\obj\Debug\net8.0\refint\SVServices.dll
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\obj\Debug\net8.0\SVServices.pdb
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVServices\obj\Debug\net8.0\ref\SVServices.dll

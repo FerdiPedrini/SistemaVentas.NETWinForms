@@ -315,7 +315,7 @@
             FormBorderStyle = FormBorderStyle.None;
             Name = "FrmCategoria";
             StartPosition = FormStartPosition.CenterScreen;
-            Text = "FrmCategoria";
+            Text = " ";
             Load += FrmCategoria_Load;
             tabControlMain.ResumeLayout(false);
             tabLista.ResumeLayout(false);

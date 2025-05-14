@@ -81,7 +81,7 @@ namespace SVRepository.Implementation
             catch (Exception ex)
             {
 
-                throw new ApplicationException("Error inesperado al listar categorias", ex);
+                throw new ApplicationException("Error inesperado al crear categorias", ex);
             }
         }
 
@@ -117,7 +117,7 @@ namespace SVRepository.Implementation
             catch (Exception ex)
             {
 
-                throw new ApplicationException("Error inesperado al listar categorias", ex);
+                throw new ApplicationException("Error inesperado al editar categorias", ex);
             }
         }
 
