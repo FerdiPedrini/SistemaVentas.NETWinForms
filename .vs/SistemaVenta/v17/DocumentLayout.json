@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|c:\\users\\windows\\desktop\\github - sistema ventas .net\\sistemaventas.netwinforms\\svpresentation\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|c:\\users\\windows\\desktop\\github - sistema ventas .net\\sistemaventas.netwinforms\\svpresentation\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|solutionrelative:svpresentation\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|c:\\users\\windows\\desktop\\github - sistema ventas .net\\sistemaventas.netwinforms\\svpresentation\\formularios\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|solutionrelative:svpresentation\\formularios\\frmcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\svpresentation\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|solutionrelative:svpresentation\\formularios\\frmproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|c:\\users\\windows\\desktop\\github - sistema ventas .net\\sistemaventas.netwinforms\\svpresentation\\viewmodels\\productovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|solutionrelative:svpresentation\\viewmodels\\productovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|c:\\users\\windows\\desktop\\github - sistema ventas .net\\sistemaventas.netwinforms\\svpresentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|solutionrelative:svpresentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|c:\\users\\windows\\desktop\\github - sistema ventas .net\\sistemaventas.netwinforms\\svpresentation\\utilidades\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0BA0AD5-845D-4D1E-B9CD-7A14034004C5}|SVPresentation\\SVPresentation.csproj|solutionrelative:svpresentation\\utilidades\\customtextbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F7B4D14-62A2-41EC-9EAE-8DA55A976358}|SVRepository\\SVRepository.csproj|c:\\users\\windows\\desktop\\github - sistema ventas .net\\sistemaventas.netwinforms\\svrepository\\implementation\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F7B4D14-62A2-41EC-9EAE-8DA55A976358}|SVRepository\\SVRepository.csproj|solutionrelative:svrepository\\implementation\\productorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +47,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "frmProducto.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\Formularios\\frmProducto.cs",
+              "RelativeDocumentMoniker": "SVPresentation\\Formularios\\frmProducto.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\Formularios\\frmProducto.cs",
+              "RelativeToolTip": "SVPresentation\\Formularios\\frmProducto.cs",
+              "ViewState": "AgIAAPkAAAAAAAAAAAAAAA4BAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T23:40:47.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomTextBox.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\Utilidades\\CustomTextBox.cs",
+              "RelativeDocumentMoniker": "SVPresentation\\Utilidades\\CustomTextBox.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\Utilidades\\CustomTextBox.cs",
+              "RelativeToolTip": "SVPresentation\\Utilidades\\CustomTextBox.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T00:05:17.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVRepository\\Implementation\\ProductoRepository.cs",
+              "RelativeDocumentMoniker": "SVRepository\\Implementation\\ProductoRepository.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVRepository\\Implementation\\ProductoRepository.cs",
+              "RelativeToolTip": "SVRepository\\Implementation\\ProductoRepository.cs",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAQwI0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:57:58.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\Program.cs",
+              "RelativeDocumentMoniker": "SVPresentation\\Program.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\Program.cs",
+              "RelativeToolTip": "SVPresentation\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:57:08.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoVM.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\ViewModels\\ProductoVM.cs",
+              "RelativeDocumentMoniker": "SVPresentation\\ViewModels\\ProductoVM.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\ViewModels\\ProductoVM.cs",
+              "RelativeToolTip": "SVPresentation\\ViewModels\\ProductoVM.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:35:24.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\Formularios\\frmCategoria.cs",
+              "RelativeDocumentMoniker": "SVPresentation\\Formularios\\frmCategoria.cs",
+              "ToolTip": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\Formularios\\frmCategoria.cs",
+              "RelativeToolTip": "SVPresentation\\Formularios\\frmCategoria.cs",
+              "ViewState": "AgIAAI4AAAAAAAAAAAAAAIwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T23:33:38.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "frmProducto.cs [Design]",
               "DocumentMoniker": "C:\\Users\\windows\\Desktop\\GitHub - Sistema Ventas .NET\\SistemaVentas.NETWinForms\\SVPresentation\\Formularios\\frmProducto.cs",
               "RelativeDocumentMoniker": "SVPresentation\\Formularios\\frmProducto.cs",
