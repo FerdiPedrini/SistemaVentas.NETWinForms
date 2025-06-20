@@ -278,3 +278,6 @@ C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\
 C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVPresentation\obj\Debug\net8.0-windows\SVPresentation.genruntimeconfig.cache
 C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVPresentation\obj\Debug\net8.0-windows\ref\SVPresentation.dll
 C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVPresentation\obj\Debug\net8.0-windows\SVPresentation.Formularios.frmProducto.resources
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVPresentation\bin\Debug\net8.0-windows\CloudinaryDotNet.dll
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVPresentation\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\windows\Desktop\GitHub - Sistema Ventas .NET\SistemaVentas.NETWinForms\SVPresentation\obj\Debug\net8.0-windows\SVPresentation.Formularios.frgmNegocio.resources
